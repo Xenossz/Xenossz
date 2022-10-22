@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **nothing**.
 
-- 👀 I'm currently focusing on **JS & C++**.
+- 👀 I'm currently focusing on **JavaScript**.
 
 - 📝 I'm currently working on [`raghib.ueuo.com`](http://raghib.ueuo.com/) 
 
