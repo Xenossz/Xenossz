@@ -4,9 +4,9 @@
 <img src="http://raghib.ueuo.com/img/logo" width="100%" alt="API Giphy logo"/>
 </p>
 
-- 🌱 I’m currently learning **nothing**.
+- 🌱 I’m currently learning **C++**.
 
-- 👀 I'm currently focusing on **JavaScript**.
+- 👀 I'm currently focusing on **C++**.
 
 - 📝 I'm currently working on [`raghib.ueuo.com`](http://raghib.ueuo.com/) 
 
