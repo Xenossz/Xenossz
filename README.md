@@ -4,11 +4,11 @@
 <img src="http://raghib.ueuo.com/img/logo" width="100%" alt="API Giphy logo"/>
 </p>
 
-- 🌱 I’m currently learning **C++**.
+- 🌱 I’m currently learning **Codeigniter**.
 
-- 👀 I'm currently focusing on **C++**.
+- 👀 I'm currently focusing on **Codeigniter**.
 
-- 📝 I'm currently working on [`raghib.ueuo.com`](http://raghib.ueuo.com/) 
+- 📝 I'm currently working on [`raghib.ueuo.com`](https://raghib.ueuo.com/) 
 
 - 🤗 Follow Account instagram on [`@raghib.13`](https://instagram.com/raghib.13/)
 
